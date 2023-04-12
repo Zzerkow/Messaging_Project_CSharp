@@ -1,0 +1,180 @@
+﻿<Window x:Class="TP_Serveur_CSharp_Version_Final.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP_Serveur_CSharp_Version_Final"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1200" Loaded="Window_Loaded"
+        FontFamily="/TP_Serveur_CSharp_Version_Final;component/font/#Cocogoose Classic Medium">
+    <Window.Resources>
+        <Style x:Key="Cocogoose-medium">
+            <Setter Property="TextElement.FontFamily" Value="/Tp_Thread_Client;component/font/#Cocogoose Classic Medium"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+
+        <Grid.Resources>
+            <Style TargetType="{x:Type Button}" >
+                <Style.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="7" />
+                        <Setter Property="Height" Value="30" />
+                        <Setter Property="MaxHeight" Value="50" />
+                        <Setter Property="BorderThickness" Value="0" />            
+                    </Style>      
+                </Style.Resources>                
+            </Style>
+        </Grid.Resources>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border 
+        Grid.Column="0"
+        Grid.ColumnSpan="3"
+        Background="#101010">
+            <Image/>
+        </Border>
+
+        <Grid Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="10*"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Name="BTN_Client"></StackPanel>
+                
+            </Grid>
+
+        </Grid>
+
+
+        <Border Grid.Column="1"
+                Background="Black"
+                BorderBrush="#363636" 
+                BorderThickness="1"/>
+
+        <!--        Tchat Window Container               -->
+        <Grid Grid.Column="1">
+            <Grid Name="Windows_Container"></Grid>
+        </Grid>
+
+
+        <!--        Côté droit               -->
+        <Grid Grid.Column="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="4*"/>
+                </Grid.RowDefinitions>
+
+                <!--        PORT et IP              -->
+                <Border Grid.Row="0" CornerRadius="7" Background="#202020" MaxHeight="50px">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="16">Moi :</Label>
+                        <Label x:Name="LB_IP" Grid.Column="1" Foreground="#b3b3b3" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15"></Label>
+                        <TextBox x:Name="TB_Port" Grid.Column="2" VerticalAlignment="Center" Background="#363636" Foreground="#b3b3b3" BorderThickness="0" HorizontalAlignment="Center" FontWeight="Bold" Padding="10px 5px">
+                            <TextBox.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </TextBox.Resources>
+                        </TextBox>
+                        <!--       BTN SAVE            -->
+                        <Button Grid.Column="3" Background="Transparent" BorderThickness="0" Click="BTN_Save_Click">
+                            <Button.Content>
+                                <Image Source="save.png" MaxHeight="40px" Margin="2px"/>
+                            </Button.Content>                            
+                        </Button>
+                        
+                    </Grid>
+                </Border>
+            </Grid>
+
+            <Grid Grid.Column="1" Grid.Row="1">
+                <!--        SERVEUR              -->
+                <Border Grid.Row="0" CornerRadius="7" Background="#857BFF" MaxHeight="40px">
+                    <Grid>                        
+                        <Label Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20">Serveur</Label>
+                    </Grid>
+                </Border>
+
+            </Grid>
+
+
+            <Grid Grid.Column="1" Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+                <ListBox Background="#202020" Foreground="White" x:Name="LB_Console"/>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="10*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!--        BTN START        -->
+                    <Button x:Name="BTN_Start" Background="#11EFC2" Foreground="White" Grid.Column="0" MaxHeight="40px"  MaxWidth="150px" FontSize="20" FontFamily="/TP_Serveur_CSharp_Version_Final;component/font/#Cocogoose Classic Black" Click="BTN_Start_Click">Start
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="7"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+
+                    <!--        BTN STOP         -->
+                    <Button x:Name="BTN_Stop" Background="#FF0080" Foreground="White" Grid.Column="2"  MaxHeight="40px" MaxWidth="150px" FontSize="20" FontFamily="/TP_Serveur_CSharp_Version_Final;component/font/#Cocogoose Classic Black" Click="BTN_Stop_Click">Stop
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="7"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </Grid>
+            </Grid>
+
+
+
+        </Grid>
+    </Grid>
+</Window>

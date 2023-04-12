@@ -1,0 +1,9 @@
+﻿<Application x:Class="TP_Serveur_CSharp_Version_Final.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TP_Serveur_CSharp_Version_Final"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

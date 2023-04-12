@@ -1,0 +1,45 @@
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.pdb
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.AssemblyReference.cache
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.g.cs
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\App.g.cs
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.cache
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.lref
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.baml
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.g.resources
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.Properties.Resources.resources
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.GenerateResource.cache
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.CoreCompileInputs.cache
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.exe
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.pdb
+C:\Users\roger\Documents\BTS\Venki\C# WPF\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe.config
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe.config
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.pdb
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.AssemblyReference.cache
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.g.cs
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\App.g.cs
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.cache
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.lref
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.baml
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.g.resources
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.Properties.Resources.resources
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.GenerateResource.cache
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.CoreCompileInputs.cache
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.exe
+D:\Snir2\DELGADO Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.pdb
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe.config
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.exe
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\bin\Debug\Tp_Thread_Client.pdb
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.AssemblyReference.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.g.cs
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\App.g.cs
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client_MarkupCompile.lref
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\MainWindow.baml
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.g.resources
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.Properties.Resources.resources
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.GenerateResource.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.csproj.CoreCompileInputs.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.exe
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\DELGADO_Roger_Tp_Thread_Client\Tp_Thread_Client\obj\Debug\Tp_Thread_Client.pdb

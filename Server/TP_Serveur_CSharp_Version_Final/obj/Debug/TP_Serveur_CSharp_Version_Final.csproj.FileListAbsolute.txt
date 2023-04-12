@@ -1,0 +1,34 @@
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.exe.config
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.exe
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.pdb
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.AssemblyReference.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\MainWindow.g.cs
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\UI_Tchat.g.cs
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\App.g.cs
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final_MarkupCompile.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final_MarkupCompile.lref
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\MainWindow.baml
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\UI_Tchat.baml
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.g.resources
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.Properties.Resources.resources
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.GenerateResource.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.CoreCompileInputs.cache
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.exe
+D:\Snir2\Léo FILSNOEL\Informatique\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.pdb
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.exe.config
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.exe
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\bin\Debug\TP_Serveur_CSharp_Version_Final.pdb
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.AssemblyReference.cache
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\MainWindow.g.cs
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\UI_Tchat.g.cs
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\App.g.cs
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final_MarkupCompile.cache
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final_MarkupCompile.lref
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\MainWindow.baml
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\UI_Tchat.baml
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.g.resources
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.Properties.Resources.resources
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.GenerateResource.cache
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.csproj.CoreCompileInputs.cache
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.exe
+D:\cours\Projet C#\Jour 7\Projet Messagerie CSharp Léo & Roger\TP_Serveur_CSharp_Version_Final\obj\Debug\TP_Serveur_CSharp_Version_Final.pdb
